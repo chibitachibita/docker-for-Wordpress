@@ -1,2 +1,5 @@
-# docker-for-Wordpress
-Wordpress用コンテナ（MySQL含む）
+# 目的
+wordpressを起動するdockerコンテナ
+
+## 使ってるもの
+MySQL
